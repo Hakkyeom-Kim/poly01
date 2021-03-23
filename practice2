@@ -1,0 +1,17 @@
+
+public class P2 {
+
+	public static void main(String[] args) {
+		int a = 1000;
+
+		if (a < 100) {
+			System.out.println("100보다 작네요");
+		System.out.println("거짓임으로 이문장은 안보임"); //두문장 이상을 실행하고 싶다면 {}표시해서 하나의 구문을 묶어줌
+		}
+		
+		System.out.println("거짓입니다 프로그램 끝");
+		
+		//
+	}
+
+}
